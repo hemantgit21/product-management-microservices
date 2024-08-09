@@ -1,0 +1,10 @@
+com\student\main\model\Product$ProductBuilder.class
+com\student\main\controller\ProductController.class
+com\student\main\dto\ProductRequest.class
+com\student\main\repository\ProductRepository.class
+com\student\main\dto\ProductRequest$ProductRequestBuilder.class
+com\student\main\ProductManagementApplication.class
+com\student\main\model\Product.class
+com\student\main\services\ProductServices.class
+com\student\main\dto\ProductResponse$ProductResponseBuilder.class
+com\student\main\dto\ProductResponse.class
