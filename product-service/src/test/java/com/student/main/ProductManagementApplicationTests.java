@@ -40,7 +40,6 @@ class ProductManagementApplicationTests {
     private ProductRepository productRepository;
 
     static DockerImageName myImage = DockerImageName.parse("mongo").asCompatibleSubstituteFor("mongo");
-
     @Container
     static MongoDBContainer mongodbContainer = new MongoDBContainer(myImage);
 
